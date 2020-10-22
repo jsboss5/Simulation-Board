@@ -3,7 +3,7 @@ simulation
 
 This project implements a cellular automata simulator.
 
-Names: Joshua Boss, Franklin Wu, Alex Chao
+Joshua Boss, Franklin Wu, Alex Chao
 
 ### Timeline 
 
