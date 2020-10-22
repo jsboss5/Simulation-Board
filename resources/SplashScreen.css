@@ -1,0 +1,17 @@
+.TitleBox {
+  -fx-font: bold italic 25pt "Arial";
+  -fx-text-alignment: center;
+}
+
+.Label{
+  -fx-text-alignment: center;
+}
+
+.buttonBox{
+  -fx-spacing: 30;
+  -fx-alignment: center;
+}
+.button{
+  -fx-font: bold italic 9pt "Arial";
+  -fx-background-color: #DFB951;
+}

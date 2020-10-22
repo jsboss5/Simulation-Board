@@ -1,0 +1,24 @@
+.grid {
+  -fx-background-color: black;
+  -fx-background-radius: 5.0;
+  -fx-background-insets: 0.0 5.0 0.0 5.0;
+  -fx-padding: 10;
+  -fx-hgap: 10;
+  -fx-vgap: 10;
+}
+
+.HBox{
+  -fx-spacing: 15;
+  -fx-alignment: center;
+ /* -fx-background-color: blue;*/
+}
+
+.button{
+  -fx-font: bold italic 12pt "Arial";
+  -fx-background-color: #DFB951;
+}
+
+.color-picker-box{
+  -fx-spacing: 30;
+  -fx-alignment: center;
+}
